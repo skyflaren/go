@@ -1,2 +1,2 @@
 # go-
-a location based, scavenger hunt-like game
+a location based, scavenger hunt Android game
