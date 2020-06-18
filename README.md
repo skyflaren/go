@@ -2,7 +2,7 @@
 
 
 
-a location based, scavenger hunt-like game
+a location based, scavenger hunt app
 
 demo: https://youtu.be/typkZTkf9ig
 
